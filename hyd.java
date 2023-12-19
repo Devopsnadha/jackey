@@ -1,3 +1,3 @@
 Hello i am testing the merge conflict
 created new branch
-  i am unable to work find any conflict
+  I am unable to find the merge conflict, know i can able to find it. 
